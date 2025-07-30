@@ -47,7 +47,10 @@ The projects are organised **module-wise**, showcasing a broad range of project 
 
 ## About Me
 
-I am a motivated graduate in Programme and Project Management with strong skills in documentation, KPI reporting, and stakeholder coordination. Currently seeking opportunities in internal audit and project governance roles.  
+## About Me
+
+I am a graduate in Programme and Project Management with experience providing structured project support across multiple workstreams. Skilled in KPI monitoring, documentation, and stakeholder coordination to ensure progress against delivery milestones. Proficient in Microsoft Excel for data tracking and reporting, with a strong interest in sustainability-focused initiatives and project governance.
+
 
 **LinkedIn:** [linkedin.com/in/joshika-malai-magal-b-v](https://linkedin.com/in/joshika-malai-magal-b-v)
 
